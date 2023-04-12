@@ -115,8 +115,7 @@
     "xgplayer-vue": "^1.1.4-beta"
   },
   "engines": {
-    "node": ">= 6.0.0",
-    "npm": ">= 3.0.0"
+    "node": "14.6.0"
   },
   "browserslist": [
     "> 1%",
